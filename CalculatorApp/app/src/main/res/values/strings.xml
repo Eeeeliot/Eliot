@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+
+    <string name="btn_sin">Sin</string>
+    <string name="btn_cos">Cos</string>
+    <string name="btn_tan">Tan</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_backspace">&#060;</string>
+</resources>
